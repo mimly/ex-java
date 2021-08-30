@@ -1,0 +1,11 @@
+![](UML-observer.png)
+---
+![](UML-mvc.png)
+---
+![](UML-adapter.png)
+---
+![](UML-decorator.png)
+---
+![](UML-proxy.png)
+---
+![](UML-state.png)
